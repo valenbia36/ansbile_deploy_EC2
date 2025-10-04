@@ -1,0 +1,9 @@
+- name: Deploy EC2
+  hosts: local
+  connection: local
+  gather_facts: no
+  vars_files:
+    - ./vars/vars.yml
+  roles:
+    - SecurityGroup
+    - EC2Manage

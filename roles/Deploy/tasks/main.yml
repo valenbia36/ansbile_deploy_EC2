@@ -1,0 +1,22 @@
+---
+- name: Launch EC2 instance
+  amazon.aws.ec2_instance:
+    name: "{{ ec2_name }}"
+    image_id: "{{ ami_id }}"
+    instance_type: "{{ instance_type }}"
+    region: "{{ aws_region }}"
+    security_groups: "{{ security_groups }}"
+    subnet_id: "{{ default_subnet_id }}"
+    count: "{{ count }}"
+    wait: yes
+    wait_timeout: 600
+    tags:
+      Name: "{{ ec2_name }}"
+    network:
+      assign_public_ip: yes
+  register: ec2
+
+- name: Output instance info
+  debug:
+    msg:
+      - "Instance: {{ ec2.instances[0]}}"
