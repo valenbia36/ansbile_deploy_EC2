@@ -1,0 +1,291 @@
+Linux 5.15.0-86-generic (valenbia-Z370-HD3) 	10/10/25 	_x86_64_	(6 CPU)
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:07     1000     42871         -   45,00    8,00    0,00    0,00   53,00     0  19663,00      0,00  137860   54188   0,33      0,00      4,00      4,00       0  ansible-playboo
+13:58:07     1000         -     42871   45,00    8,00    0,00    0,00   53,00     0  19648,00      0,00  137860   54188   0,33      0,00      4,00      4,00       0  |__ansible-playboo
+13:58:07     1000         -     42880    0,00    0,00    0,00    0,00    0,00     1      8,00      0,00  137860   54188   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:08     1000     42871         -   16,00    2,00    0,00    1,00   18,00     5   3998,00      0,00  137860   54208   0,33      0,00      0,00      0,00       0  ansible-playboo
+13:58:08     1000         -     42871   16,00    2,00    0,00    1,00   18,00     5   3998,00      0,00  137860   54208   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:08     1000         -     42880    0,00    0,00    0,00    0,00    0,00     1      0,00      0,00  137860   54208   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:09     1000     42871         -   15,00    2,00    0,00    0,00   17,00     0      2,00      0,00  137860   54208   0,33      0,00      0,00      0,00       0  ansible-playboo
+13:58:09     1000         -     42871   15,00    2,00    0,00    0,00   17,00     0      2,00      0,00  137860   54208   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:09     1000         -     42880    0,00    0,00    0,00    0,00    0,00     1      0,00      0,00  137860   54208   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:10     1000     42871         -   16,00    0,00    0,00    1,00   16,00     5    898,00      0,00  138004   54260   0,33      0,00    696,00    444,00       0  ansible-playboo
+13:58:10     1000         -     42871   16,00    0,00    0,00    1,00   16,00     5    820,00      0,00  138004   54260   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:10     1000         -     42880    0,00    0,00    0,00    0,00    0,00     1     78,00      0,00  138004   54260   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:11     1000     42871         -   10,00    1,00    0,00    1,00   11,00     5   1755,00      0,00  138008   54320   0,33      0,00      0,00      0,00       0  ansible-playboo
+13:58:11     1000         -     42871   10,00    1,00    0,00    1,00   11,00     5   1520,00      0,00  138008   54320   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:11     1000         -     42880    0,00    0,00    0,00    0,00    0,00     1    235,00      0,00  138008   54320   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:12     1000     42871         -   14,00    3,00    0,00    0,00   17,00     1      5,00      0,00  138008   54320   0,33      0,00      0,00      0,00       0  ansible-playboo
+13:58:12     1000         -     42871   14,00    3,00    0,00    0,00   17,00     1      5,00      0,00  138008   54320   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:12     1000         -     42880    0,00    0,00    0,00    0,00    0,00     1      0,00      0,00  138008   54320   0,33      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:13     1000     42871         -   10,00    2,00    0,00    1,00   12,00     2   3854,00      0,00  139240   55724   0,34      0,00    612,00    452,00       0  ansible-playboo
+13:58:13     1000         -     42871    9,00    2,00    0,00    1,00   11,00     2   3183,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:13     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0    671,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:14     1000     42871         -   14,00    1,00    0,00    2,00   15,00     5      5,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:14     1000         -     42871   15,00    1,00    0,00    2,00   16,00     5      5,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:14     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:15     1000     42871         -   16,00    1,00    0,00    0,00   17,00     2      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:15     1000         -     42871   16,00    1,00    0,00    0,00   17,00     2      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:15     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:16     1000     42871         -   15,00    3,00    0,00    0,00   18,00     4      6,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:16     1000         -     42871   15,00    3,00    0,00    0,00   18,00     4      6,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:16     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:17     1000     42871         -   16,00    1,00    0,00    0,00   17,00     0      5,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:17     1000         -     42871   16,00    1,00    0,00    0,00   17,00     0      5,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:17     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:18     1000     42871         -   16,00    2,00    0,00    0,00   18,00     2      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:18     1000         -     42871   16,00    2,00    0,00    0,00   18,00     2      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:18     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:19     1000     42871         -   17,00    1,00    0,00    1,00   18,00     3      8,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:19     1000         -     42871   17,00    1,00    0,00    1,00   18,00     3      8,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:19     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:20     1000     42871         -   17,00    1,00    0,00    0,00   18,00     0      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:20     1000         -     42871   16,00    1,00    0,00    0,00   17,00     0      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:20     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:21     1000     42871         -   16,00    1,00    0,00    0,00   17,00     0      5,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:21     1000         -     42871   17,00    1,00    0,00    0,00   18,00     0      5,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:21     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:22     1000     42871         -   17,00    1,00    0,00    0,00   18,00     2      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:22     1000         -     42871   17,00    1,00    0,00    0,00   18,00     2      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:22     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:23     1000     42871         -   15,00    2,00    0,00    1,00   17,00     1      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:23     1000         -     42871   15,00    2,00    0,00    1,00   17,00     1      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:23     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:24     1000     42871         -   17,00    1,00    0,00    0,00   18,00     3      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:24     1000         -     42871   16,00    1,00    0,00    0,00   17,00     3      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:24     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:25     1000     42871         -   16,00    2,00    0,00    0,00   18,00     5      6,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:25     1000         -     42871   16,00    2,00    0,00    0,00   18,00     5      6,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:25     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:26     1000     42871         -   16,00    2,00    0,00    0,00   18,00     1      3,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:26     1000         -     42871   16,00    2,00    0,00    0,00   18,00     1      3,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:26     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:27     1000     42871         -   14,00    2,00    0,00    1,00   16,00     4      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:27     1000         -     42871   15,00    2,00    0,00    1,00   17,00     4      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:27     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:28     1000     42871         -   15,00    1,00    0,00    1,00   16,00     2      9,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:28     1000         -     42871   15,00    1,00    0,00    1,00   16,00     2      9,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:28     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:29     1000     42871         -   18,00    0,00    0,00    0,00   18,00     3      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:29     1000         -     42871   17,00    0,00    0,00    0,00   17,00     3      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:29     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:30     1000     42871         -   15,00    2,00    0,00    1,00   17,00     5      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:30     1000         -     42871   16,00    2,00    0,00    1,00   18,00     5      2,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:30     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:31     1000     42871         -   17,00    1,00    0,00    0,00   18,00     3      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:31     1000         -     42871   16,00    1,00    0,00    0,00   17,00     3      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:31     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:32     1000     42871         -   16,00    2,00    0,00    0,00   18,00     0      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:32     1000         -     42871   16,00    2,00    0,00    0,00   18,00     0      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:32     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:33     1000     42871         -   13,00    1,00    0,00    0,00   14,00     1      7,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:33     1000         -     42871   13,00    1,00    0,00    0,00   14,00     3      7,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:33     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:34     1000     42871         -   16,00    1,00    0,00    0,00   17,00     4      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:34     1000         -     42871   17,00    1,00    0,00    0,00   18,00     4      4,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:34     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:35     1000     42871         -   16,00    3,00    0,00    1,00   19,00     2      7,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:35     1000         -     42871   15,00    3,00    0,00    1,00   18,00     2      7,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:35     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:36     1000     42871         -   17,00    1,00    0,00    0,00   18,00     4      3,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:36     1000         -     42871   17,00    1,00    0,00    0,00   18,00     4      3,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:36     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55724   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:37     1000     42871         -   15,00    1,00    0,00    2,00   16,00     4      7,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:37     1000         -     42871   15,00    1,00    0,00    2,00   16,00     4      7,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:37     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:38     1000     42871         -   15,00    3,00    0,00    0,00   18,00     5      6,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:38     1000         -     42871   15,00    3,00    0,00    0,00   18,00     5      6,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:38     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:39     1000     42871         -   15,00    1,00    0,00    1,00   16,00     4      2,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:39     1000         -     42871   16,00    1,00    0,00    1,00   17,00     4      2,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:39     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:40     1000     42871         -   17,00    1,00    0,00    0,00   18,00     2      4,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:40     1000         -     42871   16,00    1,00    0,00    0,00   17,00     2      4,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:40     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:41     1000     42871         -   16,00    0,00    0,00    0,00   16,00     3      2,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:41     1000         -     42871   17,00    0,00    0,00    0,00   17,00     3      2,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:41     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:42     1000     42871         -   18,00    0,00    0,00    0,00   18,00     0      6,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:42     1000         -     42871   18,00    0,00    0,00    0,00   18,00     0      6,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:42     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:43     1000     42871         -   16,00    2,00    0,00    0,00   18,00     1      5,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:43     1000         -     42871   16,00    2,00    0,00    0,00   18,00     1      5,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:43     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:44     1000     42871         -   16,00    1,00    0,00    1,00   17,00     4      3,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:44     1000         -     42871   15,00    1,00    0,00    1,00   16,00     4      3,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:44     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:45     1000     42871         -   16,00    0,00    0,00    1,00   16,00     3      4,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:45     1000         -     42871   16,00    0,00    0,00    1,00   16,00     3      4,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:45     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:46     1000     42871         -   15,00    3,00    0,00    0,00   18,00     4      3,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:46     1000         -     42871   16,00    3,00    0,00    0,00   19,00     4      3,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:46     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:47     1000     42871         -   17,00    1,00    0,00    1,00   18,00     0      3,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:47     1000         -     42871   17,00    1,00    0,00    1,00   18,00     0      3,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:47     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139240   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:48     1000     42871         -   17,00    1,00    0,00    0,00   18,00     5      4,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:48     1000         -     42871   17,00    1,00    0,00    0,00   18,00     5      4,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:48     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:49     1000     42871         -   15,00    3,00    0,00    0,00   18,00     0      6,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:49     1000         -     42871   15,00    3,00    0,00    0,00   18,00     2      6,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:49     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:50     1000     42871         -   16,00    1,00    0,00    0,00   17,00     5      3,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:50     1000         -     42871   16,00    1,00    0,00    0,00   17,00     5      3,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:50     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:51     1000     42871         -   17,00    2,00    0,00    0,00   19,00     2      5,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:51     1000         -     42871   17,00    2,00    0,00    0,00   19,00     2      5,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:51     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:52     1000     42871         -   17,00    1,00    0,00    0,00   18,00     5      3,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:52     1000         -     42871   17,00    1,00    0,00    0,00   18,00     5      3,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:52     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:53     1000     42871         -   16,00    2,00    0,00    1,00   18,00     1      3,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:53     1000         -     42871   16,00    2,00    0,00    1,00   18,00     1      3,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:53     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55764   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:54     1000     42871         -   16,00    1,00    0,00    0,00   17,00     3      3,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:54     1000         -     42871   16,00    1,00    0,00    0,00   17,00     3      3,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:54     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:55     1000     42871         -   17,00    2,00    0,00    0,00   19,00     5     11,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:55     1000         -     42871   17,00    2,00    0,00    0,00   19,00     5     11,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:55     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:56     1000     42871         -   16,00    2,00    0,00    0,00   18,00     5      7,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:56     1000         -     42871   15,00    2,00    0,00    0,00   17,00     5      7,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:56     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:57     1000     42871         -   16,00    2,00    0,00    0,00   18,00     1      5,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:57     1000         -     42871   16,00    2,00    0,00    0,00   18,00     1      5,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:57     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:58     1000     42871         -   14,85    0,99    0,00    0,99   15,84     1      5,94      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:58     1000         -     42871   15,84    0,99    0,00    0,99   16,83     1      5,94      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:58     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:58:59     1000     42871         -   16,00    3,00    0,00    0,00   19,00     3      6,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:58:59     1000         -     42871   16,00    3,00    0,00    0,00   19,00     3      6,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:58:59     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:59:00     1000     42871         -   17,00    1,00    0,00    0,00   18,00     1      5,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:59:00     1000         -     42871   17,00    1,00    0,00    0,00   18,00     1      5,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:59:00     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139372   55904   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:59:01     1000     42871         -   12,00    2,00    0,00    1,00   14,00     2   1846,00      0,00  139520   55980   0,34      0,00    752,00    184,00       0  ansible-playboo
+13:59:01     1000         -     42871   12,00    2,00    0,00    1,00   14,00     2   1598,00      0,00  139520   55980   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:59:01     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0    248,00      0,00  139520   55980   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:59:02     1000     42871         -   13,00    0,00    0,00    0,00   13,00     0     13,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:59:02     1000         -     42871   12,00    0,00    0,00    0,00   12,00     4     13,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:59:02     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:59:03     1000     42871         -   14,00    2,00    0,00    0,00   16,00     5      2,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:59:03     1000         -     42871   15,00    2,00    0,00    0,00   17,00     5      2,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:59:03     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+
+# Time        UID      TGID       TID    %usr %system  %guest   %wait    %CPU   CPU  minflt/s  majflt/s     VSZ     RSS   %MEM   kB_rd/s   kB_wr/s kB_ccwr/s iodelay  Command
+13:59:04     1000     42871         -   15,00    2,00    0,00    1,00   17,00     2      5,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  ansible-playboo
+13:59:04     1000         -     42871   14,00    2,00    0,00    1,00   16,00     2      5,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  |__ansible-playboo
+13:59:04     1000         -     42880    0,00    0,00    0,00    0,00    0,00     0      0,00      0,00  139520   55992   0,34      0,00      0,00      0,00       0  |__ansible-playboo
