@@ -1,0 +1,7 @@
+- name: Create EC2
+  import_tasks: deploy.yml
+  tags: deploy
+
+- name: Destroy EC2
+  import_tasks: destroy.yml
+  tags: destroy

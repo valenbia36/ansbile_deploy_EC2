@@ -1,0 +1,21 @@
+aws_region: us-east-2
+
+sg_name: "sg_vb"
+sg_rules:
+  - proto: tcp
+    from_port: 22
+    to_port: 22
+    cidr_ip: "0.0.0.0/0"
+  - proto: tcp
+    from_port: 80
+    to_port: 80
+    cidr_ip: "0.0.0.0/0"
+sg_egress:
+  - proto: -1
+    cidr_ip: "0.0.0.0/0"
+
+ami_id: "ami-005efd5afe550784a"
+instance_type: "t3.micro"
+ec2_name: "EC2 instance by VB"
+assign_public_ip: yes
+count: 1
